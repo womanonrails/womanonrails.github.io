@@ -1,0 +1,595 @@
+[
+	
+		{
+		  "title"      : "Czym różni się stub od mocka?",
+		  "category"   : "testowanie",
+		  "url"        : "https://womanonrails.com/pl/test-doubles",
+		  "date"       : "2021-06-18 00:00:00 -0400",
+		  "shortdate"  : "June 18, 2021"
+		} ,
+	
+		{
+		  "title"      : "Dynamiczna konfiguracja przy użyciu YAML w Ruby",
+		  "category"   : "programowanie",
+		  "url"        : "https://womanonrails.com/pl/dynamic-yaml-configuration",
+		  "date"       : "2021-03-03 00:00:00 -0500",
+		  "shortdate"  : "March 03, 2021"
+		} ,
+	
+		{
+		  "title"      : "Jak się skupić podczas programowania?",
+		  "category"   : "praca30devstories",
+		  "url"        : "https://womanonrails.com/pl/how-to-focus",
+		  "date"       : "2021-01-20 00:00:00 -0500",
+		  "shortdate"  : "January 20, 2021"
+		} ,
+	
+		{
+		  "title"      : "Drugie spojrzenie na pattern matching w Ruby",
+		  "category"   : "programowanie",
+		  "url"        : "https://womanonrails.com/pl/ruby-pattern-matching-second-look",
+		  "date"       : "2020-12-01 00:00:00 -0500",
+		  "shortdate"  : "December 01, 2020"
+		} ,
+	
+		{
+		  "title"      : "Zrzut ekranu w przeglądarce",
+		  "category"   : "narzędzia",
+		  "url"        : "https://womanonrails.com/pl/screenshot-in-the-browser",
+		  "date"       : "2020-10-28 00:00:00 -0400",
+		  "shortdate"  : "October 28, 2020"
+		} ,
+	
+		{
+		  "title"      : "Nazwa wzorca w nazwie klasy. Dobra czy zła praktyka?",
+		  "category"   : "refaktoring",
+		  "url"        : "https://womanonrails.com/pl/pattern-name-in-class-name",
+		  "date"       : "2020-10-14 00:00:00 -0400",
+		  "shortdate"  : "October 14, 2020"
+		} ,
+	
+		{
+		  "title"      : "TDD w pigułce",
+		  "category"   : "testowanie30devstories",
+		  "url"        : "https://womanonrails.com/pl/tdd-30devstories",
+		  "date"       : "2020-08-03 00:00:00 -0400",
+		  "shortdate"  : "August 03, 2020"
+		} ,
+	
+		{
+		  "title"      : "Nazwy mają znaczenie: 13&amp;nbsp;sposobów na poprawienie czytelności nazw w projekcie",
+		  "category"   : "refaktoring",
+		  "url"        : "https://womanonrails.com/pl/names-have-meaning",
+		  "date"       : "2020-07-29 00:00:00 -0400",
+		  "shortdate"  : "July 29, 2020"
+		} ,
+	
+		{
+		  "title"      : "Jak dodać pakiet yarna z repozytorium GitHuba?",
+		  "category"   : "narzędzia",
+		  "url"        : "https://womanonrails.com/pl/adding-yarn-package-from-github",
+		  "date"       : "2020-07-01 00:00:00 -0400",
+		  "shortdate"  : "July 01, 2020"
+		} ,
+	
+		{
+		  "title"      : "Visual Studio Code - edytor tekstowy",
+		  "category"   : "narzędziaskróty klawiszowe",
+		  "url"        : "https://womanonrails.com/pl/visual-studio-code",
+		  "date"       : "2020-06-05 00:00:00 -0400",
+		  "shortdate"  : "June 05, 2020"
+		} ,
+	
+		{
+		  "title"      : "Rails Girls Bielsko-Biała (7 marca 2020)",
+		  "category"   : "warsztaty",
+		  "url"        : "https://womanonrails.com/pl/rails-girls-bielsko-biala",
+		  "date"       : "2020-05-21 00:00:00 -0400",
+		  "shortdate"  : "May 21, 2020"
+		} ,
+	
+		{
+		  "title"      : "Jak Ruby rzutuje obiekty na łańcuchy znaków?",
+		  "category"   : "programowanie",
+		  "url"        : "https://womanonrails.com/pl/casting-ruby-object-into-string",
+		  "date"       : "2020-05-15 00:00:00 -0400",
+		  "shortdate"  : "May 15, 2020"
+		} ,
+	
+		{
+		  "title"      : "Jak używać git rebase --onto?",
+		  "category"   : "narzędziagit",
+		  "url"        : "https://womanonrails.com/pl/git-rebase-onto",
+		  "date"       : "2020-04-05 00:00:00 -0400",
+		  "shortdate"  : "April 05, 2020"
+		} ,
+	
+		{
+		  "title"      : "Jak podmienić gałąź rodzica w git-cie?",
+		  "category"   : "narzędziagit",
+		  "url"        : "https://womanonrails.com/pl/replace-parent-branch",
+		  "date"       : "2020-03-29 00:00:00 -0400",
+		  "shortdate"  : "March 29, 2020"
+		} ,
+	
+		{
+		  "title"      : "TDD - Wprowadzenie",
+		  "category"   : "testowanie",
+		  "url"        : "https://womanonrails.com/pl/tdd-basic",
+		  "date"       : "2020-02-05 00:00:00 -0500",
+		  "shortdate"  : "February 05, 2020"
+		} ,
+	
+		{
+		  "title"      : "4Developers Wrocław - 2019",
+		  "category"   : "konferencja",
+		  "url"        : "https://womanonrails.com/pl/4developers-wroclaw-2019",
+		  "date"       : "2020-01-29 00:00:00 -0500",
+		  "shortdate"  : "January 29, 2020"
+		} ,
+	
+		{
+		  "title"      : "Wypalenie zawodowe",
+		  "category"   : "praca",
+		  "url"        : "https://womanonrails.com/pl/occupational-burnout",
+		  "date"       : "2019-12-11 00:00:00 -0500",
+		  "shortdate"  : "December 11, 2019"
+		} ,
+	
+		{
+		  "title"      : "Rails Girls Warszawa (19 - 20 Październik 2019)",
+		  "category"   : "warsztaty",
+		  "url"        : "https://womanonrails.com/pl/rails-girls-warsaw-2019",
+		  "date"       : "2019-11-10 00:00:00 -0500",
+		  "shortdate"  : "November 10, 2019"
+		} ,
+	
+		{
+		  "title"      : "Lokalne edycje 4Developers 2019",
+		  "category"   : "konferencja",
+		  "url"        : "https://womanonrails.com/pl/4developers-local-events-2019",
+		  "date"       : "2019-10-27 00:00:00 -0400",
+		  "shortdate"  : "October 27, 2019"
+		} ,
+	
+		{
+		  "title"      : "Iteratory w Ruby",
+		  "category"   : "programowanie",
+		  "url"        : "https://womanonrails.com/pl/ruby-iterators",
+		  "date"       : "2019-10-02 00:00:00 -0400",
+		  "shortdate"  : "October 02, 2019"
+		} ,
+	
+		{
+		  "title"      : "4Developers 2019",
+		  "category"   : "konferencja",
+		  "url"        : "https://womanonrails.com/pl/4developers-2019",
+		  "date"       : "2019-08-07 00:00:00 -0400",
+		  "shortdate"  : "August 07, 2019"
+		} ,
+	
+		{
+		  "title"      : "Programowanie funkcyjne w Ruby",
+		  "category"   : "programowanie",
+		  "url"        : "https://womanonrails.com/pl/functional-programming-ruby",
+		  "date"       : "2019-07-03 00:00:00 -0400",
+		  "shortdate"  : "July 03, 2019"
+		} ,
+	
+		{
+		  "title"      : "Pattern matching w Ruby",
+		  "category"   : "programowanie",
+		  "url"        : "https://womanonrails.com/pl/ruby-pattern-matching",
+		  "date"       : "2019-06-12 00:00:00 -0400",
+		  "shortdate"  : "June 12, 2019"
+		} ,
+	
+		{
+		  "title"      : "Jak zostać programistą?",
+		  "category"   : "praca",
+		  "url"        : "https://womanonrails.com/pl/where-to-start",
+		  "date"       : "2019-05-18 00:00:00 -0400",
+		  "shortdate"  : "May 18, 2019"
+		} ,
+	
+		{
+		  "title"      : "Dlaczego przestałam używać zmiennych instancji w klasach Ruby?",
+		  "category"   : "programowanie",
+		  "url"        : "https://womanonrails.com/pl/instance-variables",
+		  "date"       : "2019-05-03 00:00:00 -0400",
+		  "shortdate"  : "May 03, 2019"
+		} ,
+	
+		{
+		  "title"      : "Dlaczego nie powinnyśmy wysyłać maili z modelu w Railsach?",
+		  "category"   : "programowanie",
+		  "url"        : "https://womanonrails.com/pl/rails-mailer-problem",
+		  "date"       : "2019-04-20 00:00:00 -0400",
+		  "shortdate"  : "April 20, 2019"
+		} ,
+	
+		{
+		  "title"      : "Wroclove.rb 2019",
+		  "category"   : "konferencja",
+		  "url"        : "https://womanonrails.com/pl/wrocloverb-2019",
+		  "date"       : "2019-04-05 00:00:00 -0400",
+		  "shortdate"  : "April 05, 2019"
+		} ,
+	
+		{
+		  "title"      : "Kolejność wykonywania działań w Ruby",
+		  "category"   : "programowanie",
+		  "url"        : "https://womanonrails.com/pl/operator-precedence-ruby",
+		  "date"       : "2019-03-25 00:00:00 -0400",
+		  "shortdate"  : "March 25, 2019"
+		} ,
+	
+		{
+		  "title"      : "Global Game Jam Cieszyn 2019",
+		  "category"   : "hakaton",
+		  "url"        : "https://womanonrails.com/pl/global-game-jam-2019",
+		  "date"       : "2019-03-06 00:00:00 -0500",
+		  "shortdate"  : "March 06, 2019"
+		} ,
+	
+		{
+		  "title"      : "Pattern matching w Elixirze - podstawy",
+		  "category"   : "programowanie",
+		  "url"        : "https://womanonrails.com/pl/elixir-pattern-matching",
+		  "date"       : "2019-02-20 00:00:00 -0500",
+		  "shortdate"  : "February 20, 2019"
+		} ,
+	
+		{
+		  "title"      : "Małe zapachy kodu",
+		  "category"   : "refaktoring",
+		  "url"        : "https://womanonrails.com/pl/small-code-smells",
+		  "date"       : "2019-02-02 00:00:00 -0500",
+		  "shortdate"  : "February 02, 2019"
+		} ,
+	
+		{
+		  "title"      : "Wyrażenia regularne - co może pójść nie tak?",
+		  "category"   : "programowanie",
+		  "url"        : "https://womanonrails.com/pl/email-regular-expressions",
+		  "date"       : "2019-01-16 00:00:00 -0500",
+		  "shortdate"  : "January 16, 2019"
+		} ,
+	
+		{
+		  "title"      : "Jak ustawić niestandardowy czas w przeglądarce dla testów aplikacji?",
+		  "category"   : "narzędzia",
+		  "url"        : "https://womanonrails.com/pl/custom-time-in-browser",
+		  "date"       : "2019-01-09 00:00:00 -0500",
+		  "shortdate"  : "January 09, 2019"
+		} ,
+	
+		{
+		  "title"      : "Refaktoring w Ruby krok po kroku - część 2",
+		  "category"   : "refaktoring",
+		  "url"        : "https://womanonrails.com/pl/refactoring-part2",
+		  "date"       : "2018-11-25 00:00:00 -0500",
+		  "shortdate"  : "November 25, 2018"
+		} ,
+	
+		{
+		  "title"      : "Refaktoring w Ruby krok po kroku - część 1",
+		  "category"   : "refaktoring",
+		  "url"        : "https://womanonrails.com/pl/refactoring-step-by-step",
+		  "date"       : "2018-10-08 00:00:00 -0400",
+		  "shortdate"  : "October 08, 2018"
+		} ,
+	
+		{
+		  "title"      : "Wroclove.rb 2018 - Krótkie podsumowanie",
+		  "category"   : "konferencja",
+		  "url"        : "https://womanonrails.com/pl/wrocloverb-2018",
+		  "date"       : "2018-05-25 00:00:00 -0400",
+		  "shortdate"  : "May 25, 2018"
+		} ,
+	
+		{
+		  "title"      : "Rozmowa kwalifikacyjna",
+		  "category"   : "praca",
+		  "url"        : "https://womanonrails.com/pl/interview",
+		  "date"       : "2017-04-04 00:00:00 -0400",
+		  "shortdate"  : "April 04, 2017"
+		} ,
+	
+		{
+		  "title"      : "Sublime Text - edytor tekstowy",
+		  "category"   : "narzędziaskróty klawiszowe",
+		  "url"        : "https://womanonrails.com/pl/sublime",
+		  "date"       : "2017-02-23 00:00:00 -0500",
+		  "shortdate"  : "February 23, 2017"
+		} ,
+	
+		{
+		  "title"      : "Zastosowanie metody each_with_object w Ruby",
+		  "category"   : "programowanie",
+		  "url"        : "https://womanonrails.com/pl/each-with-object",
+		  "date"       : "2017-01-05 00:00:00 -0500",
+		  "shortdate"  : "January 05, 2017"
+		} ,
+	
+		{
+		  "title"      : "Web Summit - Lizbona 2016",
+		  "category"   : "konferencja",
+		  "url"        : "https://womanonrails.com/pl/websummit-lisbon-2016",
+		  "date"       : "2016-11-19 00:00:00 -0500",
+		  "shortdate"  : "November 19, 2016"
+		} ,
+	
+		{
+		  "title"      : "Rails Girls Cieszyn (15 – 16 Październik 2016)",
+		  "category"   : "warsztaty",
+		  "url"        : "https://womanonrails.com/pl/rails-girls-cieszyn",
+		  "date"       : "2016-10-25 00:00:00 -0400",
+		  "shortdate"  : "October 25, 2016"
+		} ,
+	
+		{
+		  "title"      : "Rails Girls Poznań (02 – 03 Wrzesień 2016)",
+		  "category"   : "warsztaty",
+		  "url"        : "https://womanonrails.com/pl/rails-girls-poznan",
+		  "date"       : "2016-09-15 00:00:00 -0400",
+		  "shortdate"  : "September 15, 2016"
+		} ,
+	
+		{
+		  "title"      : "Leaflet - Wstęp do map",
+		  "category"   : "programowanie",
+		  "url"        : "https://womanonrails.com/pl/leaflet",
+		  "date"       : "2016-08-13 00:00:00 -0400",
+		  "shortdate"  : "August 13, 2016"
+		} ,
+	
+		{
+		  "title"      : "Rails Girls Łódź (16 – 17 Czerwiec 2016)",
+		  "category"   : "warsztaty",
+		  "url"        : "https://womanonrails.com/pl/rails-girls-lodz",
+		  "date"       : "2016-06-20 00:00:00 -0400",
+		  "shortdate"  : "June 20, 2016"
+		} ,
+	
+		{
+		  "title"      : "Rails Girls Warszawa (11 - 12 Czerwiec 2016)",
+		  "category"   : "warsztaty",
+		  "url"        : "https://womanonrails.com/pl/rails-girls-warsaw-2016",
+		  "date"       : "2016-06-15 00:00:00 -0400",
+		  "shortdate"  : "June 15, 2016"
+		} ,
+	
+		{
+		  "title"      : "Praca zdalna",
+		  "category"   : "praca",
+		  "url"        : "https://womanonrails.com/pl/remote-work",
+		  "date"       : "2016-05-15 00:00:00 -0400",
+		  "shortdate"  : "May 15, 2016"
+		} ,
+	
+		{
+		  "title"      : "Git Rebase",
+		  "category"   : "narzędziagit",
+		  "url"        : "https://womanonrails.com/pl/git-rebase",
+		  "date"       : "2016-04-10 00:00:00 -0400",
+		  "shortdate"  : "April 10, 2016"
+		} ,
+	
+		{
+		  "title"      : "Git - podstawowe komendy",
+		  "category"   : "narzędziagit",
+		  "url"        : "https://womanonrails.com/pl/git-usage",
+		  "date"       : "2016-02-20 00:00:00 -0500",
+		  "shortdate"  : "February 20, 2016"
+		} ,
+	
+		{
+		  "title"      : "Lambda w Ruby",
+		  "category"   : "refaktoring",
+		  "url"        : "https://womanonrails.com/pl/lambda",
+		  "date"       : "2016-02-10 00:00:00 -0500",
+		  "shortdate"  : "February 10, 2016"
+		} ,
+	
+		{
+		  "title"      : "Global Game Jam",
+		  "category"   : "hakaton",
+		  "url"        : "https://womanonrails.com/pl/global-game-jam",
+		  "date"       : "2016-01-31 00:00:00 -0500",
+		  "shortdate"  : "January 31, 2016"
+		} ,
+	
+		{
+		  "title"      : "Co to jest git?",
+		  "category"   : "narzędziagit",
+		  "url"        : "https://womanonrails.com/pl/what-is-git",
+		  "date"       : "2015-12-20 00:00:00 -0500",
+		  "shortdate"  : "December 20, 2015"
+		} ,
+	
+		{
+		  "title"      : "Coderetreat 2015 Kraków",
+		  "category"   : "warsztaty",
+		  "url"        : "https://womanonrails.com/pl/coderetreat",
+		  "date"       : "2015-11-20 00:00:00 -0500",
+		  "shortdate"  : "November 20, 2015"
+		} ,
+	
+		{
+		  "title"      : "Warsztaty CoderDojo",
+		  "category"   : "warsztaty",
+		  "url"        : "https://womanonrails.com/pl/coderdojo-workshop",
+		  "date"       : "2015-10-10 00:00:00 -0400",
+		  "shortdate"  : "October 10, 2015"
+		} ,
+	
+		{
+		  "title"      : "Bądź sobą – Jak radzić sobie z brakiem pewności siebie",
+		  "category"   : "praca",
+		  "url"        : "https://womanonrails.com/pl/be-yourself",
+		  "date"       : "2015-09-29 00:00:00 -0400",
+		  "shortdate"  : "September 29, 2015"
+		} ,
+	
+		{
+		  "title"      : "Rails Girls Szczecin (22 – 23 Sierpień 2015)",
+		  "category"   : "warsztaty",
+		  "url"        : "https://womanonrails.com/pl/rails-girls-szczecin",
+		  "date"       : "2015-08-30 00:00:00 -0400",
+		  "shortdate"  : "August 30, 2015"
+		} ,
+	
+		{
+		  "title"      : "Refaktoryzacja w SessionsController",
+		  "category"   : "refaktoring",
+		  "url"        : "https://womanonrails.com/pl/session-controller-refactoring",
+		  "date"       : "2015-07-17 00:00:00 -0400",
+		  "shortdate"  : "July 17, 2015"
+		} ,
+	
+		{
+		  "title"      : "Własne walidatory w Ruby on Rails",
+		  "category"   : "programowanie",
+		  "url"        : "https://womanonrails.com/pl/custom-rails-validators",
+		  "date"       : "2015-04-15 00:00:00 -0400",
+		  "shortdate"  : "April 15, 2015"
+		} ,
+	
+		{
+		  "title"      : "RVM – zarządzanie wersjami Ruby",
+		  "category"   : "narzędzia",
+		  "url"        : "https://womanonrails.com/pl/rvm",
+		  "date"       : "2015-03-08 00:00:00 -0500",
+		  "shortdate"  : "March 08, 2015"
+		} ,
+	
+		{
+		  "title"      : "Wzorzec projektowy – MVC",
+		  "category"   : "wzorce-projektowe",
+		  "url"        : "https://womanonrails.com/pl/mvc-design-pattern",
+		  "date"       : "2014-11-10 00:00:00 -0500",
+		  "shortdate"  : "November 10, 2014"
+		} ,
+	
+		{
+		  "title"      : "Rails Girls Silesia 2014",
+		  "category"   : "warsztaty",
+		  "url"        : "https://womanonrails.com/pl/rails-girls-silesia",
+		  "date"       : "2014-10-10 00:00:00 -0400",
+		  "shortdate"  : "October 10, 2014"
+		} ,
+	
+		{
+		  "title"      : "Guake – podręczny terminal",
+		  "category"   : "narzędziaskróty klawiszowe",
+		  "url"        : "https://womanonrails.com/pl/guake-terminal",
+		  "date"       : "2014-08-22 00:00:00 -0400",
+		  "shortdate"  : "August 22, 2014"
+		} ,
+	
+		{
+		  "title"      : "Triki dla obiektu Hash w Ruby",
+		  "category"   : "programowanie",
+		  "url"        : "https://womanonrails.com/pl/ruby-hash-tips",
+		  "date"       : "2014-06-25 00:00:00 -0400",
+		  "shortdate"  : "June 25, 2014"
+		} ,
+	
+		{
+		  "title"      : "Rails Girls Kraków",
+		  "category"   : "warsztaty",
+		  "url"        : "https://womanonrails.com/pl/rails-girls-cracow",
+		  "date"       : "2014-05-26 00:00:00 -0400",
+		  "shortdate"  : "May 26, 2014"
+		} ,
+	
+		{
+		  "title"      : "Dni Wolnego Oprogramowania",
+		  "category"   : "konferencja",
+		  "url"        : "https://womanonrails.com/pl/dwo-2014",
+		  "date"       : "2014-05-02 00:00:00 -0400",
+		  "shortdate"  : "May 02, 2014"
+		} ,
+	
+		{
+		  "title"      : "Triki dla tablic w Ruby",
+		  "category"   : "programowanie",
+		  "url"        : "https://womanonrails.com/pl/ruby-array-tips",
+		  "date"       : "2014-03-14 00:00:00 -0400",
+		  "shortdate"  : "March 14, 2014"
+		} ,
+	
+		{
+		  "title"      : "Rails Girls witaj z powrotem!",
+		  "category"   : "warsztaty",
+		  "url"        : "https://womanonrails.com/pl/rails-girls-warsaw",
+		  "date"       : "2014-02-24 00:00:00 -0500",
+		  "shortdate"  : "February 24, 2014"
+		} ,
+	
+		{
+		  "title"      : "Hack4Good Kraków",
+		  "category"   : "hakaton",
+		  "url"        : "https://womanonrails.com/pl/hack4good-cracow",
+		  "date"       : "2014-02-10 00:00:00 -0500",
+		  "shortdate"  : "February 10, 2014"
+		} ,
+	
+		{
+		  "title"      : "Ruby refaktoring – część 1",
+		  "category"   : "refaktoring",
+		  "url"        : "https://womanonrails.com/pl/refactoring-ruby-part1",
+		  "date"       : "2013-12-30 00:00:00 -0500",
+		  "shortdate"  : "December 30, 2013"
+		} ,
+	
+		{
+		  "title"      : "CoffeeScript refaktoring – część 1",
+		  "category"   : "refaktoring",
+		  "url"        : "https://womanonrails.com/pl/refactoring-coffee-part1",
+		  "date"       : "2013-12-06 00:00:00 -0500",
+		  "shortdate"  : "December 06, 2013"
+		} ,
+	
+		{
+		  "title"      : "Web Summit",
+		  "category"   : "konferencja",
+		  "url"        : "https://womanonrails.com/pl/websummit",
+		  "date"       : "2013-11-01 00:00:00 -0400",
+		  "shortdate"  : "November 01, 2013"
+		} ,
+	
+		{
+		  "title"      : "Hack4Good",
+		  "category"   : "hakaton",
+		  "url"        : "https://womanonrails.com/pl/hack4good",
+		  "date"       : "2013-10-30 00:00:00 -0400",
+		  "shortdate"  : "October 30, 2013"
+		} ,
+	
+		{
+		  "title"      : "RuPy",
+		  "category"   : "konferencja",
+		  "url"        : "https://womanonrails.com/pl/rupy",
+		  "date"       : "2013-10-14 00:00:00 -0400",
+		  "shortdate"  : "October 14, 2013"
+		} ,
+	
+		{
+		  "title"      : "Zasady Rails Girls",
+		  "category"   : "warsztaty",
+		  "url"        : "https://womanonrails.com/pl/rails-girls-rules",
+		  "date"       : "2013-09-08 00:00:00 -0400",
+		  "shortdate"  : "September 08, 2013"
+		} ,
+	
+		{
+		  "title"      : "Wprowadzenie",
+		  "category"   : "",
+		  "url"        : "https://womanonrails.com/pl/introduction",
+		  "date"       : "2013-09-06 00:00:00 -0400",
+		  "shortdate"  : "September 06, 2013"
+		} 
+	
+]
